@@ -1050,11 +1050,10 @@ body {
 }
 
 /* line 1, ../../src/scss/pages/_sponsors.scss */
-.sponsors-block {
+/* .sponsors-block {
   margin-bottom: 70px;
   padding: 50px 0;
-  background-color: red;
-}
+} */
 /* line 5, ../../src/scss/pages/_sponsors.scss */
 .sponsors-block .main-title {
   font-family: "Roboto";
