@@ -137,7 +137,7 @@ $(document).on("ready", function(){
 
         $('html, body').animate({
             scrollTop: $speakerBlock.offset().top
-        }, 300);
+        }, 500);
 
     });
 
