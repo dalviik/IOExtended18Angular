@@ -11,6 +11,9 @@ import { ScheduleComponent } from './schedule/schedule.component';
 import { RegisterComponent } from './register/register.component';
 import { SponsorsComponent } from './sponsors/sponsors.component';
 
+import { HttpClientModule } from '@angular/common/http';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,7 +27,8 @@ import { SponsorsComponent } from './sponsors/sponsors.component';
     SponsorsComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
