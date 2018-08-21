@@ -2,7 +2,7 @@
   "title": "GDG DevFest La Paz 2018",
   "description": "Se un heroe, se un GDG!",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome,  polymer, developers, web, cloud, androiddev",
   "dates": "October 12-13, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
@@ -250,7 +250,7 @@
       }],
       "title": "Product Manager/Developer"
 
-    } ,{
+    }, {
       "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
       "company": "Sygic",
       "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -285,6 +285,15 @@
       "link": "/previous-speakers/"
     }
   },
+  "schedule": [{
+    "description": "Coffeeeeeee!",
+    "icon": "coffee-break",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+    "title": "Coffee break",
+    "location": "Room 1",
+    "time": "9:00"
+  }, {}],
+
   "galleryBlock": {
     "title": "#dfua16 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
@@ -316,9 +325,7 @@
   "team": {
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
   },
-  "schedule": {
-    "saveSessionsSignedOut": "Sign in to save sessions"
-  },
+
   "sessionDetails": {
     "contentLevel": "Content level",
     "viewPresentation": "View presentation",

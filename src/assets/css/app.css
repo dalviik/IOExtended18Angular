@@ -875,7 +875,8 @@ body {
 }
 /* line 1, ../../src/scss/pages/_about.scss */
 .about-block {
-  background-color: #2196F3;
+  /* background-color: #2196F3; */
+  background-color: #673ab7;
   color: white;
   padding: 50px 0;
 }
