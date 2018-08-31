@@ -221,7 +221,7 @@
       "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
       "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
       "featured": true,
-      "name": "Adrian Kajda",
+      "name": "Anita Quispe",
       "photo": "/images/people/adrian_kajda.jpg",
       "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
       "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
@@ -286,13 +286,40 @@
     }
   },
   "schedule": [{
-    "description": "Coffeeeeeee!",
-    "icon": "coffee-break",
-    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-    "title": "Coffee break",
-    "location": "Room 1",
-    "time": "9:00"
-  }, {}],
+      "description": "Introducción y bienvenida!",
+      "icon": "coffee-break",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+      "title": "Coffee break",
+      "location": "Room 1",
+      "time": "9:00"
+    }, 
+    {
+      "description": "Coffeeeeeee!",
+      "icon": "coffee-break",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+      "title": "Coffee break",
+      "location": "Room 1",
+      "time": "9:00"
+    },
+    {
+      "description": "Coffeeeeeee!",
+      "icon": "coffee-break",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+      "title": "Coffee break",
+      "location": "Room 1",
+      "time": "9:00"
+    },
+    {
+      "description": "Coffeeeeeee!",
+      "icon": "coffee-break",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+      "title": "Coffee break",
+      "location": "Room 1",
+      "time": "9:00"
+    }
+
+
+  ],
 
   "galleryBlock": {
     "title": "#dfua16 highlights",
